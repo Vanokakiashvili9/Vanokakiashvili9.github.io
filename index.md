@@ -33,7 +33,7 @@ I have worked as a teaching assistant at Constructor University, helping student
 ## Selected Achievements
 
 - Honorable Mention, International Mathematics Competition (IMC), 2025.
-- Bronze Medal, International Computer Olympiad (ICO), 2025.
+- Bronze Medal, Iranian Combinatorics Olympiad (ICO), 2025.
 - Winner, Constructor University Integration Bee, 2024 and 2026.
 
 ## Contact
