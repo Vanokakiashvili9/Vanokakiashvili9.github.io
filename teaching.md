@@ -4,11 +4,11 @@ I prepare mathematical tutorial sheets containing problems of varying difficulty
 
 ### Number Theory
 
-Tutorial sheets covering topics such as divisibility, greatest common divisors, modular arithmetic, the Chinese remainder theorem, Fermat's little theorem, Wilson's theorem, multiplicative orders, and primitive roots.
+Tutorial sheets covering topics such as divisibility, greatest common divisors, modular arithmetic, the Chinese remainder theorem, Fermat's little theorem, Wilson's theorem, multiplicative orders, primitive roots and other topics will be added as the course progresses.
 
 ### Algebra
 
-Tutorial sheets covering topics such as subgroups, normal subgroups, and centers of groups.
+Tutorial sheets covering topics such as subgroups, normal subgroups, centers of groups and other courses will be added here as well as the course continues.
 
 ### Analysis I
 
