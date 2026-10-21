@@ -1,23 +1,42 @@
+
 ---
 layout: homepage
 ---
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an undergraduate mathematics student at Constructor University in Bremen, Germany, pursuing a B.Sc. in Mathematics, Modeling and Data Analytics.
+
+My primary academic interest is **number theory**, broadly understood, and I am interested in exploring different areas of pure mathematics. I enjoy both independent mathematical study and research.
+
+In summer 2026, I participated in a research internship at the University of Ottawa under the supervision of Professor Antonio Lei. My project, *Elliptic Curves, Isogeny Graphs and Iwasawa Theory*, explored topics at the intersection of these areas.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My main interest is **number theory**. I am particularly interested in topics involving elliptic curves, isogeny graphs, and Iwasawa theory, while remaining open to other areas of pure mathematics.
 
-## News
+## Research
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+### Islands in Isogeny Graphs with Level Structure
 
-{% include_relative _includes/publications.md %}
+I have been working on a research manuscript studying isogeny graphs of supersingular elliptic curves equipped with level structure. The project builds on ideas concerning endomorphisms and the structure of isogeny graphs.
 
-{% include_relative _includes/services.md %}
+More details about the project, along with the manuscript when available, will be provided on the Research page.
+
+## Teaching
+
+I have worked as a teaching assistant at Constructor University, helping students develop their understanding of mathematical concepts through tutorials and problem-solving sessions.
+
+- **Analysis I** — Fall 2025
+- **Matrix Algebra and Advanced Calculus 2** — Spring 2026
+
+## Selected Achievements
+
+- Honorable Mention, International Mathematics Competition (IMC), 2025.
+- Bronze Medal, International Computer Olympiad (ICO), 2025.
+- Winner, Constructor University Integration Bee, 2024 and 2026.
+
+## Contact
+
+For academic inquiries or discussions about mathematics, please feel free to contact me by email.
+
