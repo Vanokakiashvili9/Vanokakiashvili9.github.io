@@ -1,9 +1,10 @@
+
 ---
 layout: homepage
 title: Teaching
 ---
 
-[Home](/) · [Research](/research.html) · [Publications](/publications.html) · **Teaching** · [CV](/cv.html)
+{% include navigation.html %}
 
 # Teaching Experience
 
