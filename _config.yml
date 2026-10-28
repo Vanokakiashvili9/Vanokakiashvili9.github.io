@@ -8,11 +8,11 @@ email: vkakiashvi@constructor.university
 # Search Engine Optimization (SEO)
 keywords: mathematics, number theory, pure mathematics, Constructor University, Vano Kakiashvili
 description: Academic homepage of Vano Kakiashvili, mathematics student at Constructor University, interested in number theory.
-canonical: https://YOUR-USERNAME.github.io/
+canonical: https://vanokakiashvili9.github.io/
 
 # Links
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/YOUR-USERNAME
+github_link: https://github.com/Vanokakiashvili9
 
 # Images
 avatar: ./assets/img/avatar.png
