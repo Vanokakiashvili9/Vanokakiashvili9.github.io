@@ -5,39 +5,47 @@ layout: homepage
 
 {% include navigation.html %}
 
-## About Me
+# About Me
 
-I am an undergraduate mathematics student at Constructor University in Bremen, Germany, pursuing a B.Sc. in Mathematics, Modeling and Data Analytics.
+I am an undergraduate student pursuing a B.Sc. in Mathematics, Modeling and Data Analytics at Constructor University in Bremen, Germany.
 
-My primary academic interest is **number theory**, broadly understood, and I am interested in exploring different areas of pure mathematics. I enjoy both independent mathematical study and research.
+My primary academic interest is **number theory**, broadly understood, and I am interested in exploring different areas of pure mathematics. I enjoy independent mathematical study and research, particularly problems that combine algebraic structures with arithmetic questions.
 
-In summer 2026, I participated in a research internship at the University of Ottawa under the supervision of Professor Antonio Lei. My project, *Elliptic Curves, Isogeny Graphs and Iwasawa Theory*, explored topics at the intersection of these areas.
-
-## Research Interests
-
-My main interest is **number theory**. I am particularly interested in topics involving elliptic curves, isogeny graphs, and Iwasawa theory, while remaining open to other areas of pure mathematics.
+In summer 2026, I participated in a research internship at the University of Ottawa under the supervision of Professor Antonio Lei. My project, *Elliptic Curves, Isogeny Graphs and Iwasawa Theory*, introduced me to research at the intersection of these areas.
 
 ## Research
 
+My research interests lie primarily in **number theory, algebra, and topology**. Withing number theory, I am particularly interested in elliptic curves and isogeny graphs. I remain open to other areas of pure mathematics as well.
+
 ### Islands in Isogeny Graphs with Level Structure
 
-I have been working on a research manuscript studying isogeny graphs of supersingular elliptic curves equipped with level structure. The project builds on ideas concerning endomorphisms and the structure of isogeny graphs.
+My research manuscript studies isogeny graphs of supersingular elliptic curves equipped with level structure. It extends questions concerning small non-integer endomorphisms and distances between islands from maximal orders to Eichler orders.
 
-More details about the project, along with the manuscript when available, will be provided on the Research page.
+**Status:** Completed manuscript; not yet published.
+
+[Read the manuscript (PDF)](assets/files/Islands_in_isogeny_graphs_with_level_structure%20(10).pdf)
+
+[More about my research](/research.html)
 
 ## Teaching
 
-I have worked as a teaching assistant at Constructor University, helping students develop their understanding of mathematical concepts through tutorials and problem-solving sessions.
+I have served as a teaching assistant at Constructor University, conducting tutorials and problem-solving sessions in mathematics.
 
 - **Analysis I** — Fall 2025
 - **Matrix Algebra and Advanced Calculus 2** — Spring 2026
+- **Algebra** — Fall 2026
+- **Number Theory** — Fall 2026
+
+[View teaching experience and tutorial sheets](/teaching.html)
 
 ## Selected Achievements
 
-- Honorable Mention, International Mathematics Competition (IMC), 2025.
-- Bronze Medal, Iranian Combinatorics Olympiad (ICO), 2025.
-- Winner, Constructor University Integration Bee, 2024 and 2026.
+- **Honorable Mention**, International Mathematics Competition (IMC), 2025
+- **Bronze Medal**, Iranian Combinatorics Olympiad (ICO), 2025
+- **Winner**, Constructor University Integration Bee, 2024 and 2026
 
 ## Contact
 
 For academic inquiries or discussions about mathematics, please feel free to contact me by email.
+
+[Download my CV (PDF)](assets/files/curriculum_vitae.pdf)
