@@ -1,9 +1,10 @@
+
 ---
 layout: homepage
 title: Publications
 ---
 
-[Home](/) · [Research](/research.html) · **Publications** · [Teaching](/teaching.html) · [CV](/cv.html)
+{% include navigation.html %}
 
 # Publications and Preprints
 
