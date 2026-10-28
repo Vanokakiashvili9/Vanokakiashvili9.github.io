@@ -1,9 +1,10 @@
+
 ---
 layout: homepage
 title: CV
 ---
 
-[Home](/) · [Research](/research.html) · [Publications](/publications.html) · [Teaching](/teaching.html) · **CV**
+{% include navigation.html %}
 
 # Curriculum Vitae
 
