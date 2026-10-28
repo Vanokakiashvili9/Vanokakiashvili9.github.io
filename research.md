@@ -1,9 +1,10 @@
+
 ---
 layout: homepage
 title: Research
 ---
 
-[Home](/) · **Research** · [Publications](/publications.html) · [Teaching](/teaching.html) · [CV](/cv.html)
+{% include navigation.html %}
 
 # Research
 
@@ -20,6 +21,7 @@ The project studies how the presence of level structure affects the properties o
 The work extends questions about small non-integer endomorphisms and distances between islands of isogeny graphs from maximal orders to Eichler orders.
 
 **Status:** Completed manuscript; not yet published.
+
 [Read the manuscript (PDF)](assets/files/Islands_in_isogeny_graphs_with_level_structure%20(10).pdf)
 
 ### Elliptic Curves, Isogeny Graphs and Iwasawa Theory
