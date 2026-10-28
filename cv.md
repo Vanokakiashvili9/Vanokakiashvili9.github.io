@@ -3,7 +3,7 @@ layout: homepage
 title: CV
 ---
 
-[Home](index.md) · [Research](research.md) · [Publications](publications.md) · [Teaching](teaching.md) · **CV**
+[Home](/) · [Research](/research.html) · [Publications](/publications.html) · [Teaching](/teaching.html) · **CV**
 
 # Curriculum Vitae
 
