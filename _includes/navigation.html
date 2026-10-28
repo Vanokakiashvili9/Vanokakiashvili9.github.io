@@ -1,0 +1,38 @@
+
+<style>
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 24px;
+  margin: 0 0 28px;
+  padding: 12px 0;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: 0.96rem;
+}
+
+.site-nav a {
+  color: #555;
+  text-decoration: none;
+  padding: 4px 0;
+  border-bottom: 2px solid transparent;
+}
+
+.site-nav a:hover {
+  color: #1769aa;
+  border-bottom-color: #1769aa;
+}
+
+.site-nav a.active {
+  color: #1769aa;
+  font-weight: 600;
+  border-bottom-color: #1769aa;
+}
+</style>
+
+<nav class="site-nav" aria-label="Main navigation">
+  <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">Home</a>
+  <a href="{{ '/research.html' | relative_url }}" class="{% if page.url == '/research.html' %}active{% endif %}">Research</a>
+  <a href="{{ '/publications.html' | relative_url }}" class="{% if page.url == '/publications.html' %}active{% endif %}">Publications</a>
+  <a href="{{ '/teaching.html' | relative_url }}" class="{% if page.url == '/teaching.html' %}active{% endif %}">Teaching</a>
+  <a href="{{ '/cv.html' | relative_url }}" class="{% if page.url == '/cv.html' %}active{% endif %}">CV</a>
+</nav>
