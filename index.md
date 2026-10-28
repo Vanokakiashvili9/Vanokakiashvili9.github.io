@@ -3,6 +3,8 @@
 layout: homepage
 ---
 
+{% include navigation.html %}
+
 ## About Me
 
 I am an undergraduate mathematics student at Constructor University in Bremen, Germany, pursuing a B.Sc. in Mathematics, Modeling and Data Analytics.
@@ -39,4 +41,3 @@ I have worked as a teaching assistant at Constructor University, helping student
 ## Contact
 
 For academic inquiries or discussions about mathematics, please feel free to contact me by email.
-
