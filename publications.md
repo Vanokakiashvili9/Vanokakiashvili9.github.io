@@ -1,10 +1,9 @@
-
 ---
 layout: homepage
 title: Publications
 ---
 
-[Home](index.md) · [Research](research.md) · **Publications** · [Teaching](teaching.md) · [CV](cv.md)
+[Home](/) · [Research](/research.html) · **Publications** · [Teaching](/teaching.html) · [CV](/cv.html)
 
 # Publications and Preprints
 
@@ -16,12 +15,8 @@ This page lists my research manuscripts and other mathematical writing.
 
 **Vano Kakiashvili**
 
-A manuscript on isogeny graphs of supersingular elliptic curves equipped with level structure, studying the extension of ideas concerning endomorphisms and island distances from maximal orders to Eichler orders.
+This manuscript studies isogeny graphs of supersingular elliptic curves equipped with level structure, extending ideas concerning small non-integer endomorphisms and distances between islands from maximal orders to Eichler orders.
 
-You can take a look at the manuscript here:
+**Status:** Completed manuscript; not yet published.
+
 [Read the manuscript (PDF)](assets/files/Islands_in_isogeny_graphs_with_level_structure%20(10).pdf)
-
-## Other Mathematical Writing
-
-Additional mathematical notes and expository writing may be added here in the future.
-
