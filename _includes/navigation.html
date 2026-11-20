@@ -1,29 +1,38 @@
 
+
 <style>
 /* Charcoal academic theme */
+html,
 body {
   background: #343B46 !important;
   color: #E5E7EB !important;
 }
 
-.wrapper {
-  background: #343B46 !important;
+body,
+.wrapper,
+section,
+main,
+article,
+.content {
+  background-color: #343B46 !important;
+  color: #E5E7EB !important;
 }
 
+/* Text */
 h1, h2, h3, h4, h5, h6 {
   color: #F9FAFB !important;
 }
 
-p, li {
-  color: #E5E7EB !important;
+p, li, strong, em, b, span {
+  color: #E5E7EB;
 }
 
 a {
-  color: #93C5FD;
+  color: #93C5FD !important;
 }
 
 a:hover {
-  color: #BFDBFE;
+  color: #BFDBFE !important;
 }
 
 /* Navigation */
@@ -54,7 +63,16 @@ a:hover {
   font-weight: 600;
   border-bottom-color: #93C5FD;
 }
+
+/* Responsive layout */
+@media screen and (max-width: 960px) {
+  html, body, .wrapper, section, main, article, .content {
+    background: #343B46 !important;
+    color: #E5E7EB !important;
+  }
+}
 </style>
+
 
 <nav class="site-nav" aria-label="Main navigation">
   <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">Home</a>
