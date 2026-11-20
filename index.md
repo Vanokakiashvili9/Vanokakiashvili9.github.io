@@ -31,10 +31,10 @@ My research manuscript studies isogeny graphs of supersingular elliptic curves e
 
 I have served as a teaching assistant at Constructor University, conducting tutorials and problem-solving sessions in mathematics.
 
-- **Analysis I** — Fall 2025
-- **Matrix Algebra and Advanced Calculus 2** — Spring 2026
-- **Algebra** — Fall 2026
 - **Number Theory** — Fall 2026
+- **Algebra** — Fall 2026
+- **Matrix Algebra and Advanced Calculus 2** — Spring 2026
+- **Analysis I** — Fall 2025
 
 [View teaching experience and tutorial sheets](/teaching.html)
 
