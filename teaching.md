@@ -47,6 +47,11 @@ Tutorial sheets covering fundamental topics in number theory, with problems of v
 - [Tutorial 2 (PDF)](assets/files/Number_Theory_tutorial_2.pdf)
 - [Tutorial 3 (PDF)](assets/files/Number_Theory_tutorial_3.pdf)
 - [Tutorial 4 (PDF)](assets/files/Number_Theory_tutorial_4%20(1).pdf)
+- [Tutorial 5 (PDF)](assets/files/Number_Theory_tutorial_5.pdf)
+- [Tutorial 6 (PDF)](assets/files/Number_Theory_tutorial_6.pdf)
+- [Tutorial 7 (PDF)](assets/files/Number_Theory_tutorial_7.pdf)
+- [Tutorial 8 (PDF)](assets/files/Number_Theory_tutorial_8.pdf)
+
 
 ### Algebra
 
@@ -56,6 +61,15 @@ Tutorial sheets focused on abstract algebra and group theory.
 - [Tutorial 2 (PDF)](assets/files/Algebra_tutorial_2.pdf)
 - [Tutorial 3 (PDF)](assets/files/Algebra_tutorial_3.pdf)
 - [Tutorial 4 (PDF)](assets/files/Algebra_tutorial_4.pdf)
+- [Tutorial 5 (PDF)](assets/files/Algebra_tutorial_5.pdf)
+- [Tutorial 6 (PDF)](assets/files/Algebra_tutorial_6.pdf)
+- [Tutorial 7 (PDF)](assets/files/Algebra_tutorial_7.pdf)
+- [Tutorial 8 (PDF)](assets/files/Algebra_tutorial_8.pdf)
+
+
+
+
+
 
 ### Matrix Algebra and Advanced Calculus 2
 
