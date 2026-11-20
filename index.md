@@ -5,7 +5,7 @@ layout: homepage
 
 {% include navigation.html %}
 
-# About Me
+# Welcome
 
 I am an undergraduate student pursuing a B.Sc. in Mathematics, Modeling and Data Analytics at Constructor University in Bremen, Germany.
 
@@ -15,7 +15,7 @@ In summer 2026, I participated in a research internship at the University of Ott
 
 ## Research
 
-My research interests lie primarily in **number theory, algebra, and topology**. Withing number theory, I am particularly interested in elliptic curves and isogeny graphs. I remain open to other areas of pure mathematics as well.
+My research interests lie primarily in **number theory, algebra, and topology**. Within number theory, I am particularly interested in elliptic curves and isogeny graphs. I remain open to other areas of pure mathematics as well.
 
 ### Islands in Isogeny Graphs with Level Structure
 
