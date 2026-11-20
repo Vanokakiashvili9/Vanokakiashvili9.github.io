@@ -1,3 +1,4 @@
+
 ---
 layout: homepage
 title: Teaching
@@ -29,14 +30,11 @@ Conduct weekly problem-solving sessions, helping students develop their understa
 
 Conducted tutorials and problem-solving sessions covering topics in matrix algebra and advanced calculus.
 
-
 ### Analysis I
 
 **Constructor University** · Fall 2025
 
 Conducted biweekly tutorials and problem-solving sessions, helping students understand the course material and develop a solid foundation in mathematical analysis.
-
-
 
 ## Tutorial Sheets
 
@@ -55,7 +53,6 @@ Tutorial sheets covering fundamental topics in number theory, with problems of v
 - [Tutorial 7 (PDF)](assets/files/Number_Theory_tutorial_7.pdf)
 - [Tutorial 8 (PDF)](assets/files/Number_Theory_tutorial_8.pdf)
 
-
 ### Algebra
 
 Tutorial sheets focused on abstract algebra and group theory.
@@ -68,11 +65,6 @@ Tutorial sheets focused on abstract algebra and group theory.
 - [Tutorial 6 (PDF)](assets/files/Algebra_tutorial_6.pdf)
 - [Tutorial 7 (PDF)](assets/files/Algebra_tutorial_7.pdf)
 - [Tutorial 8 (PDF)](assets/files/Algebra_tutorial_8.pdf)
-
-
-
-
-
 
 ### Matrix Algebra and Advanced Calculus 2
 
