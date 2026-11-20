@@ -6,38 +6,22 @@
 
 /* Light academic theme */
 
-body {
+html, body {
+  background: #E8EDF3 !important;
   background-color: #E8EDF3 !important;
   color: #273449 !important;
-  font-family: "Inter", -apple-system, BlinkMacSystemFont,
-               "Segoe UI", sans-serif !important;
-}
-
-a {
-  color: #2563A6;
-}
-
-a:hover {
-  color: #174477;
+  font-family: "Inter", "Segoe UI", sans-serif !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #17263B !important;
-  font-family: "Inter", -apple-system, BlinkMacSystemFont,
-               "Segoe UI", sans-serif !important;
+  font-family: "Inter", "Segoe UI", sans-serif !important;
 }
 
-.site-nav {
-  border-bottom-color: #C5D0DE;
-  font-family: "Inter", -apple-system, BlinkMacSystemFont,
-               "Segoe UI", sans-serif !important;
+a {
+  color: #2563A6 !important;
 }
 
-.site-nav a {
-  color: #34445A;
-}
-
-.site-nav a:hover,
-.site-nav a.active {
-  color: #2563A6;
+a:hover {
+  color: #174477 !important;
 }
