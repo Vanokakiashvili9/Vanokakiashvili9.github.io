@@ -11,17 +11,11 @@ I have served as a teaching assistant at Constructor University, conducting tuto
 
 ## Teaching Assistant Positions
 
-### Analysis I
+### Number Theory
 
-**Constructor University** · Fall 2025
+**Constructor University** · Fall 2026
 
-Conducted biweekly tutorials and problem-solving sessions, helping students understand the course material and develop a solid foundation in mathematical analysis.
-
-### Matrix Algebra and Advanced Calculus 2
-
-**Constructor University** · Spring 2026
-
-Conducted tutorials and problem-solving sessions covering topics in matrix algebra and advanced calculus.
+Conduct weekly problem-solving sessions, covering number-theoretic problems and helping students develop rigorous mathematical reasoning.
 
 ### Algebra
 
@@ -29,11 +23,20 @@ Conducted tutorials and problem-solving sessions covering topics in matrix algeb
 
 Conduct weekly problem-solving sessions, helping students develop their understanding of abstract algebra and work through mathematical problems.
 
-### Number Theory
+### Matrix Algebra and Advanced Calculus 2
 
-**Constructor University** · Fall 2026
+**Constructor University** · Spring 2026
 
-Conduct weekly problem-solving sessions, covering number-theoretic problems and helping students develop rigorous mathematical reasoning.
+Conducted tutorials and problem-solving sessions covering topics in matrix algebra and advanced calculus.
+
+
+### Analysis I
+
+**Constructor University** · Fall 2025
+
+Conducted biweekly tutorials and problem-solving sessions, helping students understand the course material and develop a solid foundation in mathematical analysis.
+
+
 
 ## Tutorial Sheets
 
@@ -88,4 +91,4 @@ Tutorial sheets accompanying the Analysis I course.
 - [Tutorial 6 (PDF)](assets/files/Analysis%20tutorial%206%20(13.10.2025).pdf)
 - [Tutorial 8 (PDF)](assets/files/Analysis_tutorial_8%20(27.10.2025).pdf)
 - [Tutorial 10 (PDF)](assets/files/Analysis_tutorial_10%20(10.11.2025).pdf)
-- [Tutorial 12 (PDF)](assets/files/Analysis_tutorial_12%20(24.11.2025).pdf)\
+- [Tutorial 12 (PDF)](assets/files/Analysis_tutorial_12%20(24.11.2025).pdf)
