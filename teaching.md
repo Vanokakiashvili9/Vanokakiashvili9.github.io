@@ -69,17 +69,17 @@ Tutorial sheets focused on abstract algebra and group theory.
 
 Tutorial sheets accompanying the Matrix Algebra and Advanced Calculus 2 course.
 
-- [Tutorial 9 (PDF)](assets/files/Matrix_2_tutorial_9%2027.04.2026.pdf)
-- [Tutorial 6 (PDF)](assets/files/Matrix_2_tutorial_6%2023.03.2026.pdf)
 - [Tutorial 3 (PDF)](assets/files/Matrix_2_tutorial_3_02_03_2026.pdf)
+- [Tutorial 6 (PDF)](assets/files/Matrix_2_tutorial_6%2023.03.2026.pdf)
+- [Tutorial 9 (PDF)](assets/files/Matrix_2_tutorial_9%2027.04.2026.pdf)
 
 ### Analysis I
 
 Tutorial sheets accompanying the Analysis I course.
 
-- [Tutorial 12 (PDF)](assets/files/Analysis_tutorial_12%20(24.11.2025).pdf)
-- [Tutorial 10 (PDF)](assets/files/Analysis_tutorial_10%20(10.11.2025).pdf)
-- [Tutorial 8 (PDF)](assets/files/Analysis_tutorial_8%20(27.10.2025).pdf)
-- [Tutorial 6 (PDF)](assets/files/Analysis%20tutorial%206%20(13.10.2025).pdf)
-- [Tutorial 4 (PDF)](assets/files/Analysis_tutorial_4.pdf)
 - [Tutorial 2 (PDF)](assets/files/Analysis_tutorial%202%20(15.09.2025).pdf)
+- [Tutorial 4 (PDF)](assets/files/Analysis_tutorial_4.pdf)
+- [Tutorial 6 (PDF)](assets/files/Analysis%20tutorial%206%20(13.10.2025).pdf)
+- [Tutorial 8 (PDF)](assets/files/Analysis_tutorial_8%20(27.10.2025).pdf)
+- [Tutorial 10 (PDF)](assets/files/Analysis_tutorial_10%20(10.11.2025).pdf)
+- [Tutorial 12 (PDF)](assets/files/Analysis_tutorial_12%20(24.11.2025).pdf)
