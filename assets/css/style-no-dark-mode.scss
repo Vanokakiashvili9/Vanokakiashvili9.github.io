@@ -2,3 +2,25 @@
 ---
 
 @import "minimal-light-no-dark-mode";
+
+/* Light academic theme */
+
+html, body {
+  background: #E8EDF3 !important;
+  background-color: #E8EDF3 !important;
+  color: #273449 !important;
+  font-family: "Inter", "Segoe UI", sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #17263B !important;
+  font-family: "Inter", "Segoe UI", sans-serif !important;
+}
+
+a {
+  color: #2563A6 !important;
+}
+
+a:hover {
+  color: #174477 !important;
+}
