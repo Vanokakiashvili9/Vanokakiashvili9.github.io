@@ -1,7 +1,10 @@
 
-
 <style>
 /* Charcoal academic theme */
+html {
+  overflow-y: scroll !important;
+}
+
 html,
 body {
   background: #343B46 !important;
@@ -16,6 +19,15 @@ article,
 .content {
   background-color: #343B46 !important;
   color: #E5E7EB !important;
+}
+
+/* Center content without the profile sidebar */
+section {
+  float: none !important;
+  width: 100% !important;
+  max-width: 850px;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 /* Text */
@@ -70,10 +82,13 @@ a:hover {
     background: #343B46 !important;
     color: #E5E7EB !important;
   }
+
+  section {
+    width: 100% !important;
+    max-width: 850px;
+  }
 }
 </style>
-
-
 
 <nav class="site-nav" aria-label="Main navigation">
   <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">Home</a>
@@ -82,4 +97,3 @@ a:hover {
   <a href="{{ '/talks.html' | relative_url }}" class="{% if page.url == '/talks.html' %}active{% endif %}">Talks</a>
   <a href="{{ '/cv.html' | relative_url }}" class="{% if page.url == '/cv.html' %}active{% endif %}">CV</a>
 </nav>
-
