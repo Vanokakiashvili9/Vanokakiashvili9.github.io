@@ -3,7 +3,6 @@ layout: homepage
 title: Research
 ---
 
-{% include navigation.html %}
 
 # Research
 
