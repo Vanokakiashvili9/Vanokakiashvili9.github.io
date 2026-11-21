@@ -99,18 +99,16 @@
       <section>
         {{ content }}
 
-        <br>
+        <footer style="text-align: center; margin-top: 40px; padding: 20px 0; border-top: 1px solid #59616D;">
+          <p style="font-size: 0.85rem; color: #9CA3AF;">
+            Last updated: {{ site.data.last_updated.date }}
+          </p>
+        </footer>
 
         {% if site.enable_footnote %}
         <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
         {% endif %}
       </section>
-
-<footer style="text-align: center; margin-top: 40px; padding: 20px 0; border-top: 1px solid #59616D;">
-  <p style="font-size: 0.85rem; color: #9CA3AF;">
-    Last updated: {{ site.data.last_updated.date }}
-  </p>
-</footer>
     </div>
 
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
