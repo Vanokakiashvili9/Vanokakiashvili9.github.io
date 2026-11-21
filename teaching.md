@@ -9,6 +9,12 @@ title: Teaching
 
 I have served as a teaching assistant at Constructor University, conducting tutorials and problem-solving sessions to help students understand mathematical concepts and develop their problem-solving skills.
 
+<div style="margin: 24px 0; text-align: center;">
+  <img src="{{ '/assets/img/teaching.jpg' | relative_url }}"
+       alt="Explaining mathematics during a tutorial"
+       style="width: 100%; max-width: 650px; height: auto; border-radius: 8px;">
+</div>
+
 ## Teaching Assistant Positions
 
 ### Number Theory
