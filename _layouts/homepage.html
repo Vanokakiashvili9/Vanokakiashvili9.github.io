@@ -84,6 +84,15 @@
         color: #BFDBFE !important;
       }
 
+      /* Footer: keep it in the normal document flow */
+      footer {
+        position: static !important;
+        display: block !important;
+        width: 100%;
+        clear: both;
+        box-sizing: border-box;
+      }
+
       @media screen and (max-width: 700px) {
         .wrapper {
           padding: 24px 18px !important;
@@ -99,7 +108,7 @@
       <section>
         {{ content }}
 
-        <footer style="text-align: center; margin-top: 40px; padding: 20px 0; border-top: 1px solid #59616D;">
+        <footer style="position: static !important; display: block; width: 100%; text-align: center; margin-top: 40px; padding: 20px 0; border-top: 1px solid #59616D; clear: both;">
           <p style="font-size: 0.85rem; color: #9CA3AF;">
             Last updated: {{ site.data.last_updated.date }}
           </p>
