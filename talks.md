@@ -13,9 +13,12 @@ title: Talks
 
 A talk on the structure of supersingular isogeny graphs, with emphasis on island structures and the role of endomorphism rings.
 
+[View presentation slides (PDF)](assets/files/talks/From%20Elliptic%20Curves%20to%20Isogeny%20Graphs.pdf)
+
 ## Vieta Jumping
 
 **Constructor University Mathematics Society Undergraduate Seminar — Fall 2024**
 
 A talk introducing the method of Vieta jumping and illustrating its use in solving Diophantine equations.
 
+[View presentation slides (PDF)](assets/files/talks/Vieta%20Jumping.pdf)
