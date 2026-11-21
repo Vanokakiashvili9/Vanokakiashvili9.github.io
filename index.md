@@ -4,6 +4,12 @@ layout: homepage
 
 {% include navigation.html %}
 
+<div style="text-align: center; margin: 25px 0;">
+  <img src="{{ '/assets/img/profile.jpg' | relative_url }}"
+       alt="Portrait of Vano Kakiashvili"
+       style="width: 190px; height: 190px; object-fit: cover; border-radius: 50%;">
+</div>
+
 # Welcome
 
 I am an undergraduate student pursuing a B.Sc. in Mathematics, Modeling and Data Analytics at Constructor University in Bremen, Germany.
