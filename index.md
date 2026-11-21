@@ -7,7 +7,7 @@ layout: homepage
 <div style="text-align: center; margin: 25px 0;">
   <img src="{{ '/assets/img/profile.jpg' | relative_url }}"
        alt="Portrait of Vano Kakiashvili"
-       style="width: 190px; height: 190px; object-fit: cover; border-radius: 50%;">
+       style="width: 190px; height: 190px; object-fit: cover; object-position: 75% 50%; border-radius: 50%;">
 </div>
 
 # Welcome
