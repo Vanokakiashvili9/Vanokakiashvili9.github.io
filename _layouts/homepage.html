@@ -1,77 +1,57 @@
 
-<style>
-/* Charcoal academic theme */
-html {
-  overflow-y: scroll !important;
-}
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <title>{{ site.title }} | {{ site.affiliation }}</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    {% if site.keywords %}
+    <meta name="keywords" content="{{ site.keywords }}">
+    {% endif %}
+    {% if site.canonical %}
+    <link rel="canonical" href="{{ site.canonical }}"/>
+    {% endif %}
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
+    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    {% if site.font == "Sans Serif" %}
+    <link rel="stylesheet" href="./assets/css/font_sans_serif.css">
+    {% else %}
+    <link rel="stylesheet" href="./assets/css/font.css">
+    {% endif %}
+    {% if site.auto_dark_mode %}
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/publications.css">
+    {% else %}
+    <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
+    <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
+    {% endif %}
+  </head>
 
-html,
-body {
-  background: #343B46 !important;
-  color: #E5E7EB !important;
-}
+  <body>
+    <div class="wrapper">
 
-body,
-.wrapper,
-section,
-main,
-article,
-.content {
-  background-color: #343B46 !important;
-  color: #E5E7EB !important;
-}
+      <!-- Profile header intentionally hidden -->
 
-/* Text */
-h1, h2, h3, h4, h5, h6 {
-  color: #F9FAFB !important;
-}
+      <section>
+        {{ content }}
 
-p, li, strong, em, b, span {
-  color: #E5E7EB;
-}
+        <br>
 
-a {
-  color: #93C5FD !important;
-}
+        {% if site.enable_footnote %}
+        <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+        {% endif %}
+      </section>
 
-a:hover {
-  color: #BFDBFE !important;
-}
+      <footer>
+      </footer>
 
-/* Navigation */
-.site-nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px 24px;
-  margin: 0 0 28px;
-  padding: 12px 0;
-  border-bottom: 1px solid #59616D;
-  font-size: 0.96rem;
-}
+    </div>
 
-.site-nav a {
-  color: #E5E7EB !important;
-  text-decoration: none;
-  padding: 4px 0;
-  border-bottom: 2px solid transparent;
-}
-
-.site-nav a:hover {
-  color: #BFDBFE !important;
-  border-bottom-color: #93C5FD;
-}
-
-.site-nav a.active {
-  color: #93C5FD !important;
-  font-weight: 600;
-  border-bottom-color: #93C5FD;
-}
-
-/* Responsive layout */
-@media screen and (max-width: 960px) {
-  html, body, .wrapper, section, main, article, .content {
-    background: #343B46 !important;
-    color: #E5E7EB !important;
-  }
-}
-</style>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  </body>
+</html>
